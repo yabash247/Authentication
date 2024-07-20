@@ -1,0 +1,24 @@
+
+1. >intuitve > Fish Farming
+
+2. Things to do 
+    Drop downlist 
+
+
+3. Notifications
+
+4. Alert 
+
+
+THINGS TO DO LATER
+
+1. Need to display all active and inactive projects user has on a particular specification.
+        a. Check userProjectsList table with user_id for all of users projects.    
+    Eg: Catfish Farm Home page should display 
+            i.  PH Farm
+            ii. Umuahia farm
+
+2. commit
+
+
+

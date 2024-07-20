@@ -1,0 +1,5 @@
+
+
+Navbar.js
+    Make active based on current location such as if page at ".../dashboard" make Dasboard link active and homepage link inactive. 
+    
